@@ -116,6 +116,7 @@ kotlin {
     // your target config...
     android()
     iosX64('ios')
+    //
 }
 
 buildkonfig {
